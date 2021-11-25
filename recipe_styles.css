@@ -1,0 +1,17 @@
+/*css for recipes*/
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+img{
+    height: auto;
+    width: 50%;
+}
+html {
+    background-color: rgba(117, 117, 117, 1);
+}
+ul, ol, p{
+    color: white;
+}
+h1{
+    font-style: italic;
+}
